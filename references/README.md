@@ -11,6 +11,11 @@
 
 本 PDF 是本仓库 14 周学习路线的主教材。学习笔记应优先链接到书中章节、页码或上游 Markdown 源文件，避免复制大段原文。
 
+为方便第一章的离线学习，本仓库在保留上游作者与许可证信息的前提下保存了一份原始 Markdown：
+
+- [第一章原始 Markdown](ai-agent-book/chapter1-original.md)
+- [第一章逐节精讲、提问与参考答案](../notes/chapter-01-ai-agent-introduction-study-guide.md)
+
 ## 许可与归属
 
 该书及其配套材料的版权与许可证归原作者及上游项目所有。上游仓库声明采用 Apache License 2.0；本仓库仅将 PDF 作为学习资料随附，不改变其原有归属或许可。
