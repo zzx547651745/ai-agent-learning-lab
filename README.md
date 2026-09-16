@@ -22,6 +22,7 @@
 - [学习路线与进度](roadmap/)
 - [每周笔记](notes/)
   - [第一章逐节精讲、提问与参考答案](notes/chapter-01-ai-agent-introduction-study-guide.md)
+  - [第一章知识卡片](notes/chapter-01-knowledge-cards/)
 - [书中实验复现](experiments/)
 - [AI 剧本杀主持人](projects/murder-mystery-host/)
 - [评测用例与基线](evals/)

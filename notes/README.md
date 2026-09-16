@@ -5,4 +5,5 @@
 ## 章节学习笔记
 
 - [第一章：AI Agent 入门——逐节精讲、提问与参考答案](chapter-01-ai-agent-introduction-study-guide.md)
+- [第一章：AI Agent 入门——知识卡片](chapter-01-knowledge-cards/)
 

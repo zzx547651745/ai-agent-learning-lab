@@ -6,6 +6,8 @@
 >
 > 项目内原文：[chapter1-original.md](../references/ai-agent-book/chapter1-original.md)
 >
+> 配套材料：[第一章知识卡片](chapter-01-knowledge-cards/)
+>
 > 本文是学习过程中的讲解与问答整理，不替代原书。
 
 ## 学习目标
