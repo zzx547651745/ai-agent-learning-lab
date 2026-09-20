@@ -23,6 +23,7 @@ dist/
 data/local/
 logs/
 traces/
+experiments/kv-cache/results/
 *.sqlite3
 
 # OS / IDE
